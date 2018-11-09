@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Raja Webb</title>
+    <link>https://rajamm.info/projects/</link>
+    <description>Recent content in Projects on Raja Webb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://rajamm.info/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

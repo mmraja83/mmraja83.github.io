@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Raja Webb</title>
+    <link>https://rajamm.info/</link>
+    <description>Recent content in Home on Raja Webb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
+    
+	<atom:link href="https://rajamm.info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
+      <link>https://rajamm.info/publications/alldaydevops/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/publications/alldaydevops/</guid>
+      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
+ Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
+    </item>
+    
+    <item>
+      <title>angular6-bootstrap</title>
+      <link>https://rajamm.info/projects/contributions/shields-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/projects/contributions/shields-docker/</guid>
+      <description>Simple Angular Integration with Bootstrap 4. Integrated Common Header, Sidebar and Footer components. Also with one login page. This is under development. The plan is to integrate Instagram API for learning purpose..</description>
+    </item>
+    
+    <item>
+      <title>ng6-observable-example</title>
+      <link>https://rajamm.info/projects/contributions/schema-org/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/projects/contributions/schema-org/</guid>
+      <description>Angular 6 Simple Observable example
+It is a simple Example for how Angular Observable works.
+You can get working example with this URL.
+Github: https://github.com/mmraja83/ng6-observable-example
+Please provide comments on this.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rajamm.info/projects/creations/bosh-agents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/projects/creations/bosh-agents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rajamm.info/projects/creations/docker-marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/projects/creations/docker-marketplace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rajamm.info/projects/creations/marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/projects/creations/marketplace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://rajamm.info/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;]  Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+    <item>
+      <title>codeigniter3-tankauth</title>
+      <link>https://rajamm.info/projects/contributions/deploy-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/projects/contributions/deploy-triggers/</guid>
+      <description>Tank Auth is an authentication library for PHP-framework CodeIgniter. It&amp;rsquo;s based on DX Auth, althouth the code was seriously reworked. I have added few fixes to support Codeigniter 3.x.x.</description>
+    </item>
+    
+  </channel>
+</rss>

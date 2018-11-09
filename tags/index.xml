@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Raja Webb</title>
+    <link>https://rajamm.info/tags/</link>
+    <description>Recent content in Tags on Raja Webb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rajamm.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agile</title>
+      <link>https://rajamm.info/tags/agile/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular 6</title>
+      <link>https://rajamm.info/tags/angular-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/tags/angular-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bootstrap 4</title>
+      <link>https://rajamm.info/tags/bootstrap-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/tags/bootstrap-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ci/Cd Pipelines</title>
+      <link>https://rajamm.info/tags/ci-cd-pipelines/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/tags/ci-cd-pipelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codeigniter</title>
+      <link>https://rajamm.info/tags/codeigniter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/tags/codeigniter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Delivery</title>
+      <link>https://rajamm.info/tags/continuous-delivery/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/tags/continuous-delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Integration</title>
+      <link>https://rajamm.info/tags/continuous-integration/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/tags/continuous-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Css</title>
+      <link>https://rajamm.info/tags/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Culture</title>
+      <link>https://rajamm.info/tags/culture/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>https://rajamm.info/tags/devops/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Html</title>
+      <link>https://rajamm.info/tags/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Php</title>
+      <link>https://rajamm.info/tags/php/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typescript</title>
+      <link>https://rajamm.info/tags/typescript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/tags/typescript/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angular 6 on Raja Webb</title>
+    <link>https://rajamm.info/tags/angular-6/</link>
+    <description>Recent content in Angular 6 on Raja Webb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://rajamm.info/tags/angular-6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>angular6-bootstrap</title>
+      <link>https://rajamm.info/projects/contributions/shields-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/projects/contributions/shields-docker/</guid>
+      <description>Simple Angular Integration with Bootstrap 4. Integrated Common Header, Sidebar and Footer components. Also with one login page. This is under development. The plan is to integrate Instagram API for learning purpose..</description>
+    </item>
+    
+    <item>
+      <title>ng6-observable-example</title>
+      <link>https://rajamm.info/projects/contributions/schema-org/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rajamm.info/projects/contributions/schema-org/</guid>
+      <description>Angular 6 Simple Observable example
+It is a simple Example for how Angular Observable works.
+You can get working example with this URL.
+Github: https://github.com/mmraja83/ng6-observable-example
+Please provide comments on this.</description>
+    </item>
+    
+  </channel>
+</rss>

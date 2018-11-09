@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rajamm.info/projects/creations/</loc>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/projects/contributions/</loc>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/publications/alldaydevops/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/projects/contributions/shields-docker/</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/projects/contributions/schema-org/</loc>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/</loc>
+    <lastmod>2018-02-10T18:56:13-05:00</lastmod>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/projects/creations/bosh-agents/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/projects/creations/docker-marketplace/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/projects/creations/marketplace/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/tags/agile/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/tags/angular-6/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/tags/bootstrap-4/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/tags/ci-cd-pipelines/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/tags/codeigniter/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/tags/continuous-delivery/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/tags/continuous-integration/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/tags/css/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/tags/culture/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/tags/devops/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/tags/html/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/tags/php/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/projects/</loc>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/publications/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/search/</loc>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/tags/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/tags/typescript/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajamm.info/projects/contributions/deploy-triggers/</loc>
+  </url>
+  
+</urlset>
