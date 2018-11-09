@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creations on Raja Webb</title>
-    <link>https://rajamm.info/projects/creations/</link>
+    <link>https://mmraja83.github.io/projects/creations/</link>
     <description>Recent content in Creations on Raja Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://rajamm.info/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mmraja83.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://rajamm.info/projects/creations/bosh-agents/</link>
+      <link>https://mmraja83.github.io/projects/creations/bosh-agents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rajamm.info/projects/creations/bosh-agents/</guid>
+      <guid>https://mmraja83.github.io/projects/creations/bosh-agents/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://rajamm.info/projects/creations/docker-marketplace/</link>
+      <link>https://mmraja83.github.io/projects/creations/docker-marketplace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rajamm.info/projects/creations/docker-marketplace/</guid>
+      <guid>https://mmraja83.github.io/projects/creations/docker-marketplace/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://rajamm.info/projects/creations/marketplace/</link>
+      <link>https://mmraja83.github.io/projects/creations/marketplace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rajamm.info/projects/creations/marketplace/</guid>
+      <guid>https://mmraja83.github.io/projects/creations/marketplace/</guid>
       <description></description>
     </item>
     
