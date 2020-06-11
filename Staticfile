@@ -1,0 +1,4 @@
+root: public
+http_strict_transport_security_include_subdomains: true
+pushstate: enabled
+location_include: includes/*.conf
