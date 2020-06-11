@@ -1,0 +1,22 @@
+{
+	"dir" : "ltr",
+	"lang" : "en",
+	"name" : "Home",
+	"scope" : "/",
+	"display" : "browser",
+	"start_url" : "https://mmraja83.github.io/",
+	"short_name" : "Home",
+	"theme_color" : "transparent",
+	"description" : "Senior Front-End UI Developer with 11+ years of experience in Full-Stack web application development with LAMP Environment, PHP (V 7.1 & 5.6), Angular 6, Type Script, SQL (generic SQL, MySQL, Oracle), Perl, Oracle, MongoDB, HTML5, XHTML, CSS, JavaScript (generic JS, jQuery, Ajax, cross-domain Ajax), Bootstrap, REST API, XML and JSON.",
+	"orientation" : "any",
+	"background_color" : "transparent",
+	"related_applications" : [],
+	"prefer_related_applications" : false,
+	"icons" : [
+		{
+			"src": "https://mmraja83.github.io/favicon.ico",
+			"sizes": "16x16"
+		}],
+	"url" : "https://mmraja83.github.io/",
+	"generated" : "true"
+}
